@@ -19,3 +19,8 @@ response = person_chain.invoke(
 )
 
 print(response)
+
+response = person_city_chain.invoke(
+    {'person': 'Michael Jackson'}
+)
+print(response)
