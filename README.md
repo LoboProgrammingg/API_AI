@@ -1,19 +1,20 @@
-## API de Assistente Virtual
+## Virtual Assistant API
 
-### Este repositório contém uma API inovadora que integra múltiplas inteligências artificiais para fornecer respostas e serviços relacionados a informações pessoais e traduções. A seguir, estão as principais funcionalidades da API:
-### Funcionalidades
+### This repository contains an innovative API that integrates multiple artificial intelligences to provide answers and services related to personal information and translations. Below are the main functionalities of the API:
 
-    + Consulta de Nascimento: Pergunte em qual cidade uma pessoa nasceu. A IA fornece a resposta com base nos dados disponíveis.
+### Features
 
-    Descrição da Cidade: Após descobrir a cidade de nascimento, você pode solicitar uma descrição detalhada sobre ela, incluindo pontos turísticos, cultura e características únicas.
++ **Birthplace Query:** Ask where a person was born. The AI provides the answer based on available data.
 
-    História da Pessoa: Escolha uma pessoa e a IA fornecerá um resumo da vida dela, destacando eventos significativos e contribuições.
++ **City Description:** After discovering the birthplace, you can request a detailed description of the city, including tourist attractions, culture, and unique characteristics.
 
-    Tradução Multilíngue: A API permite traduzir textos para várias línguas. Basta escolher a língua de destino e fornecer a frase a ser traduzida.
++ **Person's History:** Choose a person and the AI will provide a summary of their life, highlighting significant events and contributions.
 
-    Perguntas e Respostas: Uma IA dedicada que responde a qualquer pergunta que o usuário fizer, oferecendo informações precisas e relevantes.
++ **Multilingual Translation:** The API allows you to translate texts into various languages. Simply choose the target language and provide the phrase to be translated.
 
-#### Sinta-se à vontade para contribuir com melhorias, sugestões ou correções. Sua participação é sempre bem-vinda!
++ **Questions and Answers:** A dedicated AI that answers any question the user asks, providing accurate and relevant information.
 
-## Criador do projeto
-+ Created By Matheus Lobo Camara
+#### Feel free to contribute with improvements, suggestions, or corrections. Your participation is always welcome!
+
+
+## CREATED BY - MATHEUS LOBO CAMARA
